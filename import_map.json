@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "date-fns": "https://cdn.skypack.dev/date-fns@^2.16.1",
+    "fmt/": "https://deno.land/std/fmt/",
+    "fs/": "https://deno.land/std/fs/",
+    "http/": "https://deno.land/std/http/"
+  }
+}
